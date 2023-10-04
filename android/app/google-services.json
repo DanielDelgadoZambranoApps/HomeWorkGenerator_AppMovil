@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931541480033",
+    "project_id": "homeworkgpt",
+    "storage_bucket": "homeworkgpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931541480033:android:9f616473645b46ddfc3020",
+        "android_client_info": {
+          "package_name": "com.homeworkgpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931541480033-b66lnto588k2eogki3no36chdpp9fm5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq2uKH67OItzudFcllQnghXLfely6ixdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931541480033-b66lnto588k2eogki3no36chdpp9fm5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
